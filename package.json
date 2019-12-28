@@ -1,0 +1,34 @@
+{
+  "name": "simple-react-native",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kiranfl/simple-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "simple",
+    "poc",
+    "begginner",
+    "kickstart",
+    "components"
+  ],
+  "author": "Fission Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiranfl/simple-react-native/issues"
+  },
+  "homepage": "https://github.com/kiranfl/simple-react-native#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
