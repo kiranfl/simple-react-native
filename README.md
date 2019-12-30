@@ -9,7 +9,7 @@ Why does every developer need to spend the same amount of time to develop the sa
 * This will reduce the development time. 
 * Suitable to develop POC (Proof of Concept) and production apps.
 
-Initially we added Splash,Login and Signup. More components will be coming soon. Like side drawer, bottom navigation bar etc.
+Initially we added Splash,Login and Signup. More components will be coming soon like side drawer, bottom navigation bar etc.
 ***
 ## Installation
 
