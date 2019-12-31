@@ -34,5 +34,6 @@ npm install --save simple-react-native
 <img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Login_demo.gif" width="50%" height="50%" />
 
 * [`<SignupScreen/>`](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Signup.md)
-<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Signup_demo.gif" width="50%" height="50%" />
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Signup_demo.gif" width="50%" height="50%"
+/>
 
