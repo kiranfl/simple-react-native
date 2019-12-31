@@ -23,3 +23,8 @@ npm install --save simple-react-native
 * ```cd example```
 * ```npm install```
 * ```react-native run-ios | react-native run-android```
+
+***
+## Reference 
+
+[`<SplashScreen/>`](https://github.com/kiranfl/simple-react-native/master/Docs/Splash.md)
