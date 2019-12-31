@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/simple-react-native.svg)](https://www.npmjs.com/package/simple-react-native) [![npm](https://img.shields.io/npm/dm/simple-react-native.svg)](https://www.npmjs.com/package/simple-react-native)
+
 # simple-react-native
 
 As the name suggests introducing a simple and faster way to develop react native apps.
