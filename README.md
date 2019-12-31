@@ -47,4 +47,4 @@ npm install --save simple-react-native
 
 ***
 ## License
-MIT
+[MIT](https://github.com/kiranfl/simple-react-native/blob/master/LICENSE)
