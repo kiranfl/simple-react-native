@@ -1,6 +1,6 @@
 {
   "name": "simple-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,9 @@
   "keywords": [
     "react-native",
     "react",
-    "simple",
+    "npm",
     "poc",
-    "begginner",
-    "kickstart",
+    "javascript",
     "components"
   ],
   "author": "Fission Labs",
