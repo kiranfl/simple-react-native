@@ -27,4 +27,12 @@ npm install --save simple-react-native
 ***
 ## Reference 
 
-[`<SplashScreen/>`](https://github.com/kiranfl/simple-react-native/master/Docs/Splash.md)
+* [`<SplashScreen/>`](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Splash.md)
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Splash_demo.gif" width="50%" height="50%" />
+
+* [`<LoginScreen/>`](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Login.md)
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Login_demo.gif" width="50%" height="50%" />
+
+* [`<SignupScreen/>`](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Signup.md)
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Signup_demo.gif" width="50%" height="50%" />
+
