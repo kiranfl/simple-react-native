@@ -45,3 +45,6 @@ npm install --save simple-react-native
 
 <img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Signup_demo.gif" width="50%" height="50%" />
 
+***
+## License
+MIT
