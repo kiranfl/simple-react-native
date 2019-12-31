@@ -116,42 +116,31 @@ export default class SignupScreen extends React.Component {
 
 SignupScreen.defaultProps = {
     backgroundColor: '#DCDCDC',
-    logo: null,
     setBorder: false,
     textBorderColor: 'white',
     textBorderWidth: 1,
     textBorderRadius: 1,
     textBackgroundColor: 'white',
     textEmailPlaceholder: 'Email',
-    textPasswordPlaceholder: 'Password',
     buttonBorderRadius: 1,
     buttonBackgroundColor: '#00b5ec',
-    loginTextColor: '#00b5ec',
-    loginText: 'Login',
     signupText: 'Signup',
     inputTextColor: 'black',
-    forgotPasswordTextColor: 'grey',
-    signupTextColor: 'grey',
     buttonTextColor: 'white'
 };
 
 SignupScreen.propTypes = {
     backgroundColor: PropTypes.string,
-    logo: PropTypes.number,
     setBorder: PropTypes.bool,
     textBorderColor: PropTypes.string,
     textBorderWidth: PropTypes.number,
     textBorderRadius: PropTypes.number,
     textBackgroundColor: PropTypes.string,
     textEmailPlaceholder: PropTypes.string,
-    textPasswordPlaceholder: PropTypes.string,
-    buttonBackgroundColor: PropTypes.string,
-    loginTextColor: PropTypes.string,
-    loginText: PropTypes.string,
-    inputTextColor: PropTypes.string,
-    onSignup: PropTypes.func,
     buttonBorderRadius: PropTypes.number,
-    forgotPasswordTextColor: PropTypes.string,
-    signupTextColor: PropTypes.string,
+    buttonBackgroundColor: PropTypes.string,
+    signupText: PropTypes.string,
+    inputTextColor: PropTypes.string,
     buttonTextColor: PropTypes.string,
+    onSignup: PropTypes.func
 };

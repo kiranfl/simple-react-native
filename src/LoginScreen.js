@@ -21,7 +21,7 @@ export default class LoginScreen extends React.Component {
             <View style={{ flex: 1,
                 alignItems: 'center',
                 backgroundColor: this.props.backgroundColor}}> 
-                {this.props.logo && <Image source={this.props.logo} style={{ marginTop: 30, marginBottom: 50, width: 150, height: 150, resizeMode: 'contain' }} />}
+                {<Image source={this.props.logo} style={{ marginTop: 30, marginBottom: 50, width: 150, height: 150, resizeMode: 'contain' }} />}
                 {this.props.setBorder && <View style={{ width: 250, height: 150, alignItems: 'center' }}>
                     <TextInput style={{
                         borderColor: this.props.textBorderColor,
@@ -153,15 +153,16 @@ LoginScreen.propTypes = {
     textBackgroundColor: PropTypes.string,
     textEmailPlaceholder: PropTypes.string,
     textPasswordPlaceholder: PropTypes.string,
+    buttonBorderRadius: PropTypes.number,
     buttonBackgroundColor: PropTypes.string,
     loginTextColor: PropTypes.string,
     loginText: PropTypes.string,
+    signupText: PropTypes.string,
     inputTextColor: PropTypes.string,
+    forgotPasswordTextColor: PropTypes.string,
+    signupTextColor: PropTypes.string,
+    buttonTextColor: PropTypes.string,
     onLoginClicked: PropTypes.func,
     onSignupClicked: PropTypes.func,
     onForgotpasswordClicked: PropTypes.func,
-    buttonBorderRadius: PropTypes.number,
-    forgotPasswordTextColor: PropTypes.string,
-    signupTextColor: PropTypes.string,
-    buttonTextColor: PropTypes.string
 };
