@@ -31,7 +31,7 @@ npm install --save simple-react-native
   
   Click [here](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Splash.md) to check usage and props.
 
-<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Splash_demo.gif"/>
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/Splash_demo.gif" width="50%" height="50%" />
 
 * [`<LoginScreen/>`](https://github.com/kiranfl/simple-react-native/blob/master/Docs/Login.md)
   
