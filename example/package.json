@@ -16,7 +16,7 @@
     "react-native-gesture-handler": "^1.5.2",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.3",
-    "simple-react-native": "file:../simple-react-native-1.0.0.tgz"
+    "simple-react-native": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
