@@ -7,11 +7,13 @@ As the name suggests introducing a simple and faster way to develop react native
 Why does every developer need to spend the same amount of time to develop the same screens or components?
 * The main intention of this package is providing template screens which are used frequently in almost every app.
 * And providing wrapper or abstract components upon existing react native components.
-* All props are optional. And we can apply our own colors and themes by using corresponding props.
+* All props are optional.
 * This will reduce the development time. 
-* Suitable to develop POC (Proof of Concept) and production apps.
+* We can develop POC (Proof Of Concept) apps quickly by calling the specified components directly without using any props.
+* Once we utilize all the provided props and callbacks, we can develop fully functional production apps. Everyone can use their own images, colors and themes by applying corresponding props. 
+ 
 
-Initially we added Splash,Login and Signup. More components will be coming soon like side drawer, bottom navigation bar etc.
+Initially we added Splash,Login and Signup. More components will be coming soon like side drawer, bottom navigation bar and etc.
 ***
 ## Installation
 
