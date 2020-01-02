@@ -16,7 +16,11 @@
     "npm",
     "poc",
     "javascript",
-    "components"
+    "components",
+    "templates",
+    "ios",
+    "android",
+    "simple react native"
   ],
   "author": "Fission Labs",
   "license": "MIT",
