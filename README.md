@@ -1,7 +1,8 @@
+<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/logo.png" width="20%" height="20%" />
 
 # [Fission Labs](https://www.fissionlabs.com/)
 
-We help our clients navigate to their next big product success. We leverage cutting edge technologies such as Cloud, AI, Big Data, IoT, and Machine learning to deliver intuitive, customer friendly, and scalable solutions that address your core business needs whether we’re developing for web, mobile, commercial, or enterprise clients
+Fission Labs is a Software Product Development & Services company delivering high-end solutions primarily in the areas of highly scalable cloud applications and analytics for large sets of data. Few of the challenges we are working on are scaling an application to support 150 million users, real-time bidding with response time requirements of 100 ms or less. If you are somebody who wants to work on big challenges and change the world, we have those opportunities in spades.
 
 ***
 ***
