@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/kiranfl/simple-react-native/master/Docs/logo.png" width="20%" height="20%" />
-
-# [Fission Labs](https://www.fissionlabs.com/)
-
-Fission Labs is a Software Product Development & Services company delivering high-end solutions primarily in the areas of highly scalable cloud applications and analytics for large sets of data. Few of the challenges we are working on are scaling an application to support 150 million users, real-time bidding with response time requirements of 100 ms or less. If you are somebody who wants to work on big challenges and change the world, we have those opportunities in spades.
 
 ***
 ***
